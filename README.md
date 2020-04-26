@@ -3,7 +3,11 @@
 #### By **Karen Ngala
 
 ## Description
+<<<<<<< HEAD
 The website is a landing portfolio 
+=======
+The website is a landing portfolio
+>>>>>>> 8a6a323ca3e5e8b48378e1d751188be7389562ad
 https://karenngala.github.io/Portfolio/
 ## Technologies Used
 HTML
