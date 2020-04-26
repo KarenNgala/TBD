@@ -4,6 +4,7 @@
 
 ## Description
 The website is a landing portfolio 
+https://karenngala.github.io/Portfolio/
 ## Technologies Used
 HTML
 CSS
